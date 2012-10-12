@@ -13,6 +13,7 @@ in the directory where pom.xml is located.
 
 
 
+
 Using AcrIS archetype for generating REST project:
 
 mvn -o archetype:generate -DarchetypeGroupId=sk.seges.acris.archetype -DarchetypeArtifactId=acris-archetype-rest-server
